@@ -1,1 +1,2 @@
 Fitxer_moreno_andrea
+Afegeixo linea desde el repositori local
